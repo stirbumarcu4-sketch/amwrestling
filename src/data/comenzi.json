@@ -1,0 +1,38 @@
+[
+  {
+    "numar": "HP-20261001-7957",
+    "data": "2026-10-01T08:37:37.308Z",
+    "linii": [
+      {
+        "slug": "maner-pronatie-p1",
+        "nume": "Mâner pronație Pronator P1",
+        "cantitate": 1,
+        "pretUnitar": 1805
+      },
+      {
+        "slug": "masa-competitie-titan-pro",
+        "nume": "Masă de competiție Titan Pro",
+        "cantitate": 2,
+        "pretUnitar": 8015
+      }
+    ],
+    "subtotal": 17835,
+    "costLivrare": 590,
+    "total": 18425,
+    "client": {
+      "nume": "Știrbu",
+      "prenume": "Marcu",
+      "email": "stirbumarcu4@gmail.com",
+      "telefon": "067891392",
+      "raion": "Chișinău (municipiu)",
+      "localitate": "CHISINAU",
+      "strada": "STEFAN 20",
+      "codPostal": "2008",
+      "detalii": "2 86"
+    },
+    "metodaLivrare": "Curier 24–48 h",
+    "metodaPlata": "Ramburs la curier",
+    "status": "noua",
+    "primitaLa": "2026-10-01T08:37:37.355Z"
+  }
+]

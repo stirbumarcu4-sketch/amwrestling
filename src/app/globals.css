@@ -1,0 +1,176 @@
+@import "tailwindcss";
+
+@theme {
+  /* ── TEMĂ ÎNTUNECATĂ ──────────────────────────────────────────────────────
+     Magazinul a trecut de la fundal deschis la fundal negru. Numele tokenilor
+     au rămas cele vechi (`ink` = cerneală, `chalk` = cretă), fiindcă sunt
+     folosiți în peste 650 de locuri; li s-au inversat doar valorile. Citite
+     azi, numele sunt pe dos — `ink` e acum deschis, `chalk` e închis — dar
+     perechile din componente (`bg-ink-900` cu `text-chalk-50`) rămân valide,
+     pentru că s-au inversat amândouă deodată.
+
+     Fotografiile de produs NU se ating: au fundalul crem (#f0ede6) ars în
+     fișier și se vor desprinde ca niște ferestre luminoase pe pagina neagră. */
+
+  /* Familia „ink” — acum TEXT deschis și fundaluri de contrast (butoane). */
+  --color-ink-950: #ffffff;
+  --color-ink-900: #f5f8fa; /* titluri; fundal de buton principal */
+  --color-ink-800: #e3e9ee; /* hover pe butonul principal */
+  --color-ink-700: #dbe2e8; /* text principal */
+
+  /* Familia „steel” — intermediare, neschimbate ca rol. */
+  --color-steel-600: #c3ccd4; /* borduri pe fundal deschis (inversat) */
+  /* Pe fundalul paginii (#0f1317) dă 7,4:1, cu mult peste pragul de 4,5:1. */
+  --color-steel-500: #98a3ae; /* text secundar */
+  --color-steel-400: #76818c; /* text secundar pe fundal deschis */
+  --color-steel-300: #3c4650; /* borduri accentuate */
+
+  /* Familia „chalk” — acum FUNDALURI închise, de la borduri spre pagină. */
+  --color-chalk-200: #2a3138; /* borduri */
+  --color-chalk-100: #161b20; /* fundal secțiuni */
+  --color-chalk-50: #0f1317; /* fundal pagină */
+
+  /* Suprafața cardurilor. Înlocuiește `bg-white` din versiunea deschisă: pe
+     negru nu mai poate fi alb, dar trebuie să rămână cu un pas mai deschisă
+     decât secțiunea, altfel cardurile dispar în fundal. */
+  --color-suprafata: #1b2127;
+
+  /* Text care stă pe accentul roșu. Rămâne deschis indiferent de temă — pe
+     roșu, un text întunecat ar coborî contrastul sub prag. */
+  --color-pe-accent: #fffaf8;
+
+  /* Zonele care erau negre și înainte: bara de anunț, header, subsol,
+     newsletter, navigația de administrare. Prin simpla inversare a tokenilor
+     ar fi ieșit albe — exact pe dos față de ce trebuie. Rămân cele mai
+     întunecate din pagină, cu un pas sub fundalul ei. */
+  --color-carbon: #080b0e;
+
+  /* Hero-ul: același albastru, mutat în partea întunecată a scalei. */
+  --color-azur-200: #253546; /* borduri pe fundal albastru */
+  --color-azur-100: #152230; /* fundal hero */
+
+  /* Accentul rămâne roșu, dar deschis cu câte un pas: nuanțele vechi,
+     gândite pentru hârtie, se pierdeau pe negru. */
+  --color-rust-700: #a8432f;
+  --color-rust-600: #c6553f; /* ACCENT unic */
+  --color-rust-500: #d9705a;
+  --color-rust-100: #3b211c; /* fundal discret de accent */
+
+  /* Stările de stoc, deschise ca să treacă pragul de contrast pe negru. */
+  --color-moss-600: #4fb085; /* în stoc */
+  --color-amber-600: #d3a33c; /* stoc limitat */
+
+  /* DECIZIE: specificația cerea `--font-heading: var(--font-heading), ...`, dar
+     numele fiind identic cu variabila generată de next/font, proprietatea se
+     auto-referențiază și devine invalidă. Variabilele next/font sunt de aceea
+     declarate ca `--font-heading-src` / `--font-body-src` în layout.tsx. */
+  --font-heading: var(--font-heading-src), ui-sans-serif, system-ui;
+  --font-body: var(--font-body-src), ui-sans-serif, system-ui;
+
+  --radius-sm: 3px;
+  --radius-md: 5px;
+  --radius-lg: 8px;
+
+  /* Pe fundal negru o umbră slabă e invizibilă: negru pur, mult mai opac. */
+  --shadow-card: 0 1px 3px rgb(0 0 0 / 0.5);
+  --shadow-pop: 0 6px 20px rgb(0 0 0 / 0.65);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    /* Fără asta, browserul desenează tot ce ține de el — bara de derulare,
+       lista unui <select>, calendarul unui <input type="date"> — în alb. */
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: var(--color-chalk-50);
+    color: var(--color-ink-700);
+    font-family: var(--font-body);
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-heading);
+    color: var(--color-ink-900);
+    line-height: 1.1;
+  }
+
+  /* Prețurile și orice cifră aliniată pe coloană folosesc cifre tabulare. */
+  th,
+  td {
+    font-variant-numeric: tabular-nums;
+  }
+
+  ::selection {
+    background-color: var(--color-ink-900);
+    color: var(--color-chalk-50);
+  }
+}
+
+@layer components {
+  /* Scala tipografică din secțiunea 4.3. */
+  .type-display {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: clamp(2.75rem, 7vw, 4.5rem);
+    line-height: 0.95;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+  }
+
+  .type-h1 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: clamp(2rem, 4vw, 3rem);
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+  }
+
+  .type-h2 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: clamp(1.5rem, 3vw, 2.125rem);
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+  }
+
+  .type-h3 {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 1.375rem;
+  }
+
+  /* Eticheta: uppercase mic, folosit la categorii, coloane de tabel, badge-uri. */
+  .type-eticheta {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-steel-500);
+  }
+
+  .type-pret {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 1.25rem;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@utility tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Limitează rândul la ~68 de caractere, conform regulii de lizibilitate. */
+@utility masura {
+  max-width: 68ch;
+}

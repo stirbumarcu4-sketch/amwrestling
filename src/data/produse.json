@@ -1,0 +1,1779 @@
+[
+  {
+    "slug": "masa-competitie-titan-pro",
+    "nume": "Masă de competiție Titan Pro",
+    "sku": "HP-MES-001",
+    "categorie": "mese",
+    "pret": 8015,
+    "pretVechi": 10018,
+    "descriereScurta": "Masă la cote de competiție, cadru din țeavă rectangulară de 60×40 mm.",
+    "descriere": "Construită la dimensiunile regulamentului internațional: blat la 104 cm de la sol, perne de cot de 15×15 cm și pini de mână la 41 cm distanță. Cadrul este din țeavă rectangulară sudată, vopsită electrostatic. Picioarele se demontează pentru transport.",
+    "specificatii": [
+      {
+        "eticheta": "Înălțime blat",
+        "valoare": "104 cm"
+      },
+      {
+        "eticheta": "Perne de cot",
+        "valoare": "15 × 15 cm, spumă HR 60 kg/m³"
+      },
+      {
+        "eticheta": "Distanță pini",
+        "valoare": "41 cm"
+      },
+      {
+        "eticheta": "Cadru",
+        "valoare": "Oțel S235, țeavă 60 × 40 × 2 mm"
+      },
+      {
+        "eticheta": "Finisaj",
+        "valoare": "Vopsire în câmp electrostatic, negru mat"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "58 kg"
+      },
+      {
+        "eticheta": "Garanție",
+        "valoare": "36 luni structură"
+      }
+    ],
+    "imagini": [
+      "/produse/titan-pro-1.webp",
+      "/produse/titan-pro-2.webp",
+      "/produse/titan-pro-3.webp",
+      "/produse/titan-pro-4.webp"
+    ],
+    "stoc": "la-comanda",
+    "etichete": [
+      "reducere",
+      "produs-moldovenesc"
+    ],
+    "greutateKg": 58,
+    "voluminos": true,
+    "rating": 4.9,
+    "nrRecenzii": 12
+  },
+  {
+    "slug": "masa-antrenament-forge-club",
+    "nume": "Masă de antrenament Forge Club",
+    "sku": "HP-MES-002",
+    "categorie": "mese",
+    "pret": 5612,
+    "pretVechi": 7012,
+    "descriereScurta": "Varianta de sală: aceleași cote, cadru mai simplu, montaj în 20 de minute.",
+    "descriere": "Păstrează geometria oficială, dar renunță la reglajele de competiție. Potrivită pentru cluburi și săli private care au nevoie de o masă pe care se lucrează zilnic. Blat placat cu MDF de 25 mm, tapițat cu piele ecologică rezistentă la cretă.",
+    "specificatii": [
+      {
+        "eticheta": "Înălțime blat",
+        "valoare": "104 cm"
+      },
+      {
+        "eticheta": "Blat",
+        "valoare": "MDF 25 mm, tapițerie PU"
+      },
+      {
+        "eticheta": "Cadru",
+        "valoare": "Oțel S235, țeavă 50 × 30 × 2 mm"
+      },
+      {
+        "eticheta": "Montaj",
+        "valoare": "Demontabilă, chei incluse"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "42 kg"
+      },
+      {
+        "eticheta": "Garanție",
+        "valoare": "24 luni structură"
+      }
+    ],
+    "imagini": [
+      "/produse/forge-club-1.webp",
+      "/produse/forge-club-2.webp",
+      "/produse/forge-club-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "reducere",
+      "produs-moldovenesc"
+    ],
+    "greutateKg": 42,
+    "voluminos": true,
+    "rating": 4.7,
+    "nrRecenzii": 23
+  },
+  {
+    "slug": "masa-perete-wall-arm",
+    "nume": "Masă de perete pliabilă Wall Arm",
+    "sku": "HP-MES-003",
+    "categorie": "mese",
+    "pret": 6814,
+    "pretVechi": 8015,
+    "descriereScurta": "Se prinde în perete și se pliază la 12 cm când nu o folosești.",
+    "descriere": "Soluția pentru garaj sau sală mică. Se fixează cu 6 ancore chimice în beton sau cărămidă plină și susține în siguranță o priză de competiție. Braț de sprijin cu blocare mecanică, fără joc lateral.",
+    "specificatii": [
+      {
+        "eticheta": "Grosime pliată",
+        "valoare": "12 cm"
+      },
+      {
+        "eticheta": "Suprafață",
+        "valoare": "60 × 40 cm"
+      },
+      {
+        "eticheta": "Prindere",
+        "valoare": "6 ancore M10 (incluse)"
+      },
+      {
+        "eticheta": "Sarcină testată",
+        "valoare": "300 kg static"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "19 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/wall-arm-1.webp",
+      "/produse/wall-arm-2.webp",
+      "/produse/wall-arm-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "reducere",
+      "nou"
+    ],
+    "greutateKg": 19,
+    "voluminos": true,
+    "rating": 4.6,
+    "nrRecenzii": 8
+  },
+  {
+    "slug": "set-perne-cot-grip-pad",
+    "nume": "Set perne de cot Grip Pad (2 buc.)",
+    "sku": "HP-MES-004",
+    "categorie": "mese",
+    "pret": 916,
+    "descriereScurta": "Spumă HR de 60 kg/m³, husă din piele ecologică lavabilă.",
+    "descriere": "Perne de schimb la cotele oficiale, 15 × 15 cm. Miezul din spumă cu revenire lentă nu se turtește după câteva luni, iar husa se curăță cu o lavetă umedă. Prindere cu arici pe blaturi standard.",
+    "specificatii": [
+      {
+        "eticheta": "Dimensiuni",
+        "valoare": "15 × 15 × 5 cm"
+      },
+      {
+        "eticheta": "Miez",
+        "valoare": "Spumă HR 60 kg/m³"
+      },
+      {
+        "eticheta": "Husă",
+        "valoare": "Piele ecologică, rezistentă la cretă"
+      },
+      {
+        "eticheta": "Prindere",
+        "valoare": "Bandă velcro"
+      },
+      {
+        "eticheta": "Conținut",
+        "valoare": "2 bucăți"
+      }
+    ],
+    "imagini": [
+      "/produse/grip-pad-1.webp",
+      "/produse/grip-pad-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.8,
+    "nrRecenzii": 31
+  },
+  {
+    "slug": "set-pini-mana-cromati",
+    "nume": "Set pini de mână cromați (2 buc.)",
+    "sku": "HP-MES-005",
+    "categorie": "mese",
+    "pret": 721,
+    "descriereScurta": "Bare de 25 mm, cromate, cu talpă filetată M12.",
+    "descriere": "Pini de schimb pentru mesele de competiție și antrenament. Diametrul de 25 mm și înălțimea de 15 cm respectă regulamentul. Suprafața cromată nu reține creta și se curăță instantaneu.",
+    "specificatii": [
+      {
+        "eticheta": "Diametru",
+        "valoare": "25 mm"
+      },
+      {
+        "eticheta": "Înălțime",
+        "valoare": "15 cm"
+      },
+      {
+        "eticheta": "Filet",
+        "valoare": "M12"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Oțel cromat"
+      },
+      {
+        "eticheta": "Conținut",
+        "valoare": "2 bucăți"
+      }
+    ],
+    "imagini": [
+      "/produse/pini-mana-1.webp",
+      "/produse/pini-mana-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.7,
+    "nrRecenzii": 17
+  },
+  {
+    "slug": "husa-protectie-masa",
+    "nume": "Husă de protecție pentru masă",
+    "sku": "HP-MES-006",
+    "categorie": "mese",
+    "pret": 568,
+    "descriereScurta": "Poliester 600D impermeabil, pentru depozitare și transport.",
+    "descriere": "Acoperă complet blatul și partea superioară a cadrului. Cusături duble, șnur de strângere la bază și mâner de transport. Ține praful și umezeala departe de tapițerie în sălile fără climatizare.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "Poliester 600D, tratament PU"
+      },
+      {
+        "eticheta": "Compatibilitate",
+        "valoare": "Titan Pro, Forge Club"
+      },
+      {
+        "eticheta": "Culoare",
+        "valoare": "Negru"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "1,1 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/husa-masa-1.webp",
+      "/produse/husa-masa-2.webp"
+    ],
+    "stoc": "stoc-limitat",
+    "rating": 4.4,
+    "nrRecenzii": 6
+  },
+  {
+    "slug": "maner-pronatie-p1",
+    "nume": "Mâner pronație Pronator P1",
+    "sku": "HP-MAN-001",
+    "categorie": "manere",
+    "pret": 1805,
+    "descriereScurta": "Mânerul de bază pentru forța de pronație și presiunea laterală.",
+    "descriere": "Braț în arc, care ține antebrațul în unghiul de lucru din priză pe toată cursa mișcării. Se prinde la orice sistem de scripeți prin chinga cu carabinieră inclusă. Mânerul de 40 mm este din nailon texturat, cu priză sigură și cu cretă.",
+    "specificatii": [
+      {
+        "eticheta": "Formă braț",
+        "valoare": "Arc, cu prindere reglabilă"
+      },
+      {
+        "eticheta": "Diametru mâner",
+        "valoare": "40 mm"
+      },
+      {
+        "eticheta": "Material braț",
+        "valoare": "Oțel inoxidabil 304"
+      },
+      {
+        "eticheta": "Material mâner",
+        "valoare": "Nailon de înaltă densitate"
+      },
+      {
+        "eticheta": "Include",
+        "valoare": "Chingă și carabinieră"
+      },
+      {
+        "eticheta": "Sarcină maximă",
+        "valoare": "250 kg"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "1,4 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/pronator-p1-foto.webp",
+      "/produse/pronator-p1-2.webp",
+      "/produse/pronator-p1-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "bestseller",
+      "produs-moldovenesc"
+    ],
+    "greutateKg": 1.4,
+    "rating": 4.9,
+    "nrRecenzii": 64
+  },
+  {
+    "slug": "maner-cupping-cup-master",
+    "nume": "Mâner cupping Cup Master",
+    "sku": "HP-MAN-002",
+    "categorie": "manere",
+    "pret": 900,
+    "descriereScurta": "Pentru flexia încheieturii și controlul palmei adversarului.",
+    "descriere": "Bară scurtă, offset, care izolează flexorii încheieturii fără să încarce cotul. Muchia superioară este teșită, ca degetele să nu alunece la sarcini mari. Compatibil cu orice cablu prin carabinieră de 8 mm.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime utilă",
+        "valoare": "12 cm"
+      },
+      {
+        "eticheta": "Diametru bară",
+        "valoare": "30 mm"
+      },
+      {
+        "eticheta": "Offset",
+        "valoare": "6 cm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Oțel S235"
+      },
+      {
+        "eticheta": "Sarcină maximă",
+        "valoare": "250 kg"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "1,2 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/cup-master-1.webp",
+      "/produse/cup-master-2.webp",
+      "/produse/cup-master-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "bestseller"
+    ],
+    "greutateKg": 1.2,
+    "rating": 4.8,
+    "nrRecenzii": 47
+  },
+  {
+    "slug": "maner-ciocan-hammer-h2",
+    "nume": "Mâner ciocan Hammer H2",
+    "sku": "HP-MAN-003",
+    "categorie": "manere",
+    "pret": 759,
+    "descriereScurta": "Priză neutră, pentru brahioradial și partea de ridicare.",
+    "descriere": "Formă de ciocan cu mâner vertical de 14 cm. Lucrează exact traseul de ridicare (rise) din priză și este cel mai simplu mâner de învățat pentru începători. Inel de prindere sudat, nu nituit.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime mâner",
+        "valoare": "14 cm"
+      },
+      {
+        "eticheta": "Diametru",
+        "valoare": "34 mm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Oțel S235"
+      },
+      {
+        "eticheta": "Sarcină maximă",
+        "valoare": "250 kg"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "1,3 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/hammer-h2-1.webp",
+      "/produse/hammer-h2-2.webp",
+      "/produse/hammer-h2-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "greutateKg": 1.3,
+    "rating": 4.7,
+    "nrRecenzii": 38
+  },
+  {
+    "slug": "maner-rotativ-free-spin",
+    "nume": "Mâner rotativ Free Spin",
+    "sku": "HP-MAN-004",
+    "categorie": "manere",
+    "pret": 702,
+    "descriereScurta": "Bară pe rulmenți, pentru priză dinamică și antrenament de degete.",
+    "descriere": "Bara se rotește liber pe două rulmenți sigilați, așa că mâna trebuie să lucreze continuu ca să mențină poziția. Excelent pentru forța de închidere a degetelor și pentru simularea unei mâini care alunecă.",
+    "specificatii": [
+      {
+        "eticheta": "Diametru bară",
+        "valoare": "38 mm"
+      },
+      {
+        "eticheta": "Rulmenți",
+        "valoare": "2 × 6001-2RS sigilați"
+      },
+      {
+        "eticheta": "Lungime utilă",
+        "valoare": "16 cm"
+      },
+      {
+        "eticheta": "Sarcină maximă",
+        "valoare": "200 kg"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "1,6 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/free-spin-1.webp",
+      "/produse/free-spin-2.webp",
+      "/produse/free-spin-3.webp"
+    ],
+    "stoc": "stoc-limitat",
+    "etichete": [
+      "nou"
+    ],
+    "greutateKg": 1.6,
+    "rating": 4.6,
+    "nrRecenzii": 15
+  },
+  {
+    "slug": "bara-devon-60",
+    "nume": "Bară Devon 60",
+    "sku": "HP-MAN-005",
+    "categorie": "manere",
+    "pret": 1331,
+    "descriereScurta": "Bară lungă cu prindere centrală, pentru presiune laterală și top roll.",
+    "descriere": "60 cm de bară cu inel central reglabil, care îți permite să schimbi brațul de pârghie fără să schimbi mânerul. Standardul de facto pentru lucrul de side pressure. Molatare pe ambele capete.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime",
+        "valoare": "60 cm"
+      },
+      {
+        "eticheta": "Diametru",
+        "valoare": "30 mm"
+      },
+      {
+        "eticheta": "Prindere",
+        "valoare": "Inel central reglabil pe 5 poziții"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Oțel S235"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "2,8 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/devon-60-1.webp",
+      "/produse/devon-60-2.webp",
+      "/produse/devon-60-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "produs-moldovenesc"
+    ],
+    "greutateKg": 2.8,
+    "rating": 4.8,
+    "nrRecenzii": 29
+  },
+  {
+    "slug": "maner-cu-curea-strap-grip",
+    "nume": "Mâner cu curea Strap Grip",
+    "sku": "HP-MAN-006",
+    "categorie": "manere",
+    "pret": 702,
+    "descriereScurta": "Simulează priza cu curea din meciurile de strap match.",
+    "descriere": "Chingă din poliester de 40 mm cu inel de oțel, care reproduce senzația de curea legată. Lungimea se reglează cu cataramă metalică, ca să poți lucra unghiuri diferite pe același sistem de tracțiune.",
+    "specificatii": [
+      {
+        "eticheta": "Lățime chingă",
+        "valoare": "40 mm"
+      },
+      {
+        "eticheta": "Lungime reglabilă",
+        "valoare": "35–70 cm"
+      },
+      {
+        "eticheta": "Rezistență chingă",
+        "valoare": "1200 kg"
+      },
+      {
+        "eticheta": "Inel",
+        "valoare": "Oțel zincat 8 mm"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "0,4 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/strap-grip-1.webp",
+      "/produse/strap-grip-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "greutateKg": 0.4,
+    "rating": 4.5,
+    "nrRecenzii": 22
+  },
+  {
+    "slug": "set-manere-arsenal-kit",
+    "nume": "Set complet mânere Arsenal Kit (6 buc.)",
+    "sku": "HP-MAN-007",
+    "categorie": "manere",
+    "pret": 4609,
+    "pretVechi": 5616,
+    "descriereScurta": "Toate cele șase mânere din gamă, într-o singură comandă.",
+    "descriere": "Conține Pronator P1, Cup Master, Hammer H2, Free Spin, Bara Devon 60 și Strap Grip. Acoperă întreg traseul de antrenament specific — pronație, cupping, ridicare, presiune laterală și priză dinamică. Livrat în geantă textilă.",
+    "specificatii": [
+      {
+        "eticheta": "Conținut",
+        "valoare": "6 mânere + geantă de transport"
+      },
+      {
+        "eticheta": "Greutate totală",
+        "valoare": "8,7 kg"
+      },
+      {
+        "eticheta": "Economie față de bucată",
+        "valoare": "1.007 MDL"
+      },
+      {
+        "eticheta": "Garanție",
+        "valoare": "24 luni"
+      }
+    ],
+    "imagini": [
+      "/produse/arsenal-kit-1.webp",
+      "/produse/arsenal-kit-2.webp",
+      "/produse/arsenal-kit-3.webp",
+      "/produse/arsenal-kit-4.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "reducere",
+      "bestseller"
+    ],
+    "greutateKg": 8.7,
+    "rating": 5,
+    "nrRecenzii": 19
+  },
+  {
+    "slug": "adaptor-rotativ-rulment",
+    "nume": "Adaptor rotativ cu rulment",
+    "sku": "HP-MAN-008",
+    "categorie": "manere",
+    "pret": 492,
+    "descriereScurta": "Elimină răsucirea cablului între scripete și mâner.",
+    "descriere": "Se montează între carabinieră și mâner și lasă mânerul să se rotească liber, fără să torsioneze cablul. Rulment axial sigilat, testat la 300 kg. Piesă mică, dar care prelungește vizibil viața cablului.",
+    "specificatii": [
+      {
+        "eticheta": "Sarcină testată",
+        "valoare": "300 kg"
+      },
+      {
+        "eticheta": "Rulment",
+        "valoare": "Axial sigilat"
+      },
+      {
+        "eticheta": "Lungime",
+        "valoare": "7 cm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Oțel zincat"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "0,25 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/adaptor-rotativ-1.webp",
+      "/produse/adaptor-rotativ-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "greutateKg": 0.25,
+    "rating": 4.6,
+    "nrRecenzii": 26
+  },
+  {
+    "slug": "sistem-scripeti-pulley-pro",
+    "nume": "Sistem de scripeți Pulley Pro",
+    "sku": "HP-ANT-001",
+    "categorie": "antrenament",
+    "pret": 5009,
+    "pretVechi": 5951,
+    "descriereScurta": "Scripete dublu cu suport de perete și 4 m de cablu inclus.",
+    "descriere": "Inima oricărui setup de armwrestling acasă. Suportul se fixează pe perete sau pe cadrul mesei, iar poziția scripetelui se reglează pe verticală pentru a schimba unghiul de tracțiune. Include cablu de oțel, carabinieră și suport pentru discuri.",
+    "specificatii": [
+      {
+        "eticheta": "Scripeți",
+        "valoare": "2, rulmenți sigilați"
+      },
+      {
+        "eticheta": "Cablu inclus",
+        "valoare": "4 m, oțel 4 mm cu manta PVC"
+      },
+      {
+        "eticheta": "Reglaj vertical",
+        "valoare": "7 poziții, pas 10 cm"
+      },
+      {
+        "eticheta": "Sarcină maximă",
+        "valoare": "150 kg"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "11 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/pulley-pro-1.webp",
+      "/produse/pulley-pro-2.webp",
+      "/produse/pulley-pro-3.webp",
+      "/produse/pulley-pro-4.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "reducere",
+      "bestseller"
+    ],
+    "greutateKg": 11,
+    "rating": 4.8,
+    "nrRecenzii": 41
+  },
+  {
+    "slug": "cablu-otel-4mm-3m",
+    "nume": "Cablu de oțel 4 mm cu carabiniere (3 m)",
+    "sku": "HP-ANT-002",
+    "categorie": "antrenament",
+    "pret": 401,
+    "descriereScurta": "Cablu de schimb, presat la capete, cu două carabiniere incluse.",
+    "descriere": "Cablu de oțel cu manta din PVC, care nu zgârie scripetele și nu îți taie mâna dacă îl apuci. Capetele sunt presate cu papuci de aluminiu și verificate individual. Vine cu două carabiniere cu filet de siguranță.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime",
+        "valoare": "3 m"
+      },
+      {
+        "eticheta": "Diametru",
+        "valoare": "4 mm (6 mm cu manta)"
+      },
+      {
+        "eticheta": "Sarcină de rupere",
+        "valoare": "980 kg"
+      },
+      {
+        "eticheta": "Accesorii",
+        "valoare": "2 carabiniere cu filet"
+      }
+    ],
+    "imagini": [
+      "/produse/cablu-otel-1.webp",
+      "/produse/cablu-otel-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.7,
+    "nrRecenzii": 33
+  },
+  {
+    "slug": "turnbuckle-lant-15m",
+    "nume": "Turnbuckle cu lanț 1,5 m",
+    "sku": "HP-ANT-003",
+    "categorie": "antrenament",
+    "pret": 530,
+    "descriereScurta": "Pentru izometrii și lucru la unghi fix, fără scripeți.",
+    "descriere": "Lanț zincat cu întinzător filetat, care se ancorează de podea sau de masă. Îți permite să blochezi mânerul la unghiul exact în care ești slab și să lucrezi izometric acolo. Reglaj fin din întinzător.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime lanț",
+        "valoare": "1,5 m"
+      },
+      {
+        "eticheta": "Zale",
+        "valoare": "6 mm zincate"
+      },
+      {
+        "eticheta": "Reglaj întinzător",
+        "valoare": "12 cm"
+      },
+      {
+        "eticheta": "Sarcină de lucru",
+        "valoare": "400 kg"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "2,2 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/turnbuckle-1.webp",
+      "/produse/turnbuckle-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "greutateKg": 2.2,
+    "rating": 4.5,
+    "nrRecenzii": 14
+  },
+  {
+    "slug": "wrist-roller-roll-force",
+    "nume": "Wrist roller Roll Force",
+    "sku": "HP-ANT-004",
+    "categorie": "antrenament",
+    "pret": 599,
+    "descriereScurta": "Rolă de încheietură cu rulmenți, chingă de 2 m și prindere pentru discuri.",
+    "descriere": "Bara se rotește pe rulmenți, așa că rezistența vine din chingă și din discuri, nu din frecare. Mânerele exterioare rămân fixe, ceea ce înseamnă că lucrezi flexorii și extensorii curat, fără să compensezi din umăr.",
+    "specificatii": [
+      {
+        "eticheta": "Diametru bară",
+        "valoare": "50 mm"
+      },
+      {
+        "eticheta": "Lungime",
+        "valoare": "45 cm"
+      },
+      {
+        "eticheta": "Chingă",
+        "valoare": "2 m poliester"
+      },
+      {
+        "eticheta": "Discuri compatibile",
+        "valoare": "Ø 30 mm"
+      },
+      {
+        "eticheta": "Sarcină maximă",
+        "valoare": "60 kg"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "3,1 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/roll-force-1.webp",
+      "/produse/roll-force-2.webp",
+      "/produse/roll-force-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "nou"
+    ],
+    "greutateKg": 3.1,
+    "rating": 4.7,
+    "nrRecenzii": 20
+  },
+  {
+    "slug": "gripper-reglabil-20-100",
+    "nume": "Gripper reglabil 20–100 kg",
+    "sku": "HP-ANT-005",
+    "categorie": "antrenament",
+    "pret": 530,
+    "descriereScurta": "Un singur gripper care acoperă tot progresul, cu reglaj din șurub.",
+    "descriere": "Arc din oțel pentru arcuri și mânere molatate din aluminiu. Reglajul se face dintr-un șurub cu blocare, în 10 trepte, așa că nu mai ai nevoie de cinci grippere fixe pe măsură ce progresezi.",
+    "specificatii": [
+      {
+        "eticheta": "Interval",
+        "valoare": "20–100 kg"
+      },
+      {
+        "eticheta": "Trepte",
+        "valoare": "10"
+      },
+      {
+        "eticheta": "Mânere",
+        "valoare": "Aluminiu molatat"
+      },
+      {
+        "eticheta": "Arc",
+        "valoare": "Oțel pentru arcuri, călit"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "0,45 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/gripper-reglabil-1.webp",
+      "/produse/gripper-reglabil-2.webp",
+      "/produse/gripper-reglabil-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "bestseller"
+    ],
+    "greutateKg": 0.45,
+    "rating": 4.6,
+    "nrRecenzii": 58
+  },
+  {
+    "slug": "set-3-grippere-fixe",
+    "nume": "Set 3 grippere fixe (60 / 80 / 100 kg)",
+    "sku": "HP-ANT-006",
+    "categorie": "antrenament",
+    "pret": 1202,
+    "descriereScurta": "Trei rezistențe calibrate, pentru încălzire, volum și maximal.",
+    "descriere": "Grippere cu rezistență fixă, verificate individual pe dinamometru — abaterea maximă este de 3%. Structură din aluminiu, arc călit. Setul acoperă un ciclu complet de antrenament de priză.",
+    "specificatii": [
+      {
+        "eticheta": "Rezistențe",
+        "valoare": "60, 80, 100 kg"
+      },
+      {
+        "eticheta": "Toleranță",
+        "valoare": "± 3%"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Aluminiu + oțel călit"
+      },
+      {
+        "eticheta": "Conținut",
+        "valoare": "3 bucăți"
+      }
+    ],
+    "imagini": [
+      "/produse/grippere-set-1.webp",
+      "/produse/grippere-set-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.7,
+    "nrRecenzii": 27
+  },
+  {
+    "slug": "bila-forta-grip-ball-7cm",
+    "nume": "Bilă de forță Grip Ball 7 cm",
+    "sku": "HP-ANT-007",
+    "categorie": "antrenament",
+    "pret": 702,
+    "descriereScurta": "Bilă de oțel cu ureche de prindere, pentru forța de închidere a palmei.",
+    "descriere": "Se agață de cablu și se ridică ținând-o exclusiv în palmă. Suprafața este ușor texturată, dar rămâne suficient de alunecoasă cât să pedepsească orice priză leneșă. Un exercițiu, o singură piesă, rezultate rapide.",
+    "specificatii": [
+      {
+        "eticheta": "Diametru",
+        "valoare": "7 cm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Oțel masiv"
+      },
+      {
+        "eticheta": "Prindere",
+        "valoare": "Ureche sudată M8"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "1,4 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/grip-ball-1.webp",
+      "/produse/grip-ball-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "greutateKg": 1.4,
+    "rating": 4.4,
+    "nrRecenzii": 18
+  },
+  {
+    "slug": "set-benzi-rezistenta-5",
+    "nume": "Set benzi de rezistență (5 buc.)",
+    "sku": "HP-ANT-008",
+    "categorie": "antrenament",
+    "pret": 801,
+    "descriereScurta": "Latex natural, 5 rezistențe, pentru încălzire și lucru de umăr.",
+    "descriere": "Benzi buclă din latex natural stratificat, de la 5 la 40 kg de rezistență. Le folosești la încălzirea articulației cotului, la rotatori și la lucrul de rezistență variabilă pe traseele de pronație.",
+    "specificatii": [
+      {
+        "eticheta": "Rezistențe",
+        "valoare": "5, 10, 20, 30, 40 kg"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Latex natural stratificat"
+      },
+      {
+        "eticheta": "Lungime",
+        "valoare": "104 cm"
+      },
+      {
+        "eticheta": "Conținut",
+        "valoare": "5 benzi + săculeț"
+      }
+    ],
+    "imagini": [
+      "/produse/benzi-rezistenta-1.webp",
+      "/produse/benzi-rezistenta-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.5,
+    "nrRecenzii": 44
+  },
+  {
+    "slug": "placa-ridicare-pinch-plate",
+    "nume": "Placă de ridicare Pinch Plate",
+    "sku": "HP-ANT-009",
+    "categorie": "antrenament",
+    "pret": 641,
+    "descriereScurta": "Antrenament de pinch grip cu încărcare progresivă.",
+    "descriere": "Placă de oțel cu suprafață netedă și ureche de prindere pentru discuri suplimentare. Se ridică ținută doar între degetul mare și restul degetelor — cel mai direct mod de a construi forța de pinch de care ai nevoie în priză.",
+    "specificatii": [
+      {
+        "eticheta": "Dimensiuni",
+        "valoare": "20 × 12 × 1 cm"
+      },
+      {
+        "eticheta": "Greutate proprie",
+        "valoare": "2,1 kg"
+      },
+      {
+        "eticheta": "Încărcare suplimentară",
+        "valoare": "Până la 40 kg"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Oțel rectificat"
+      }
+    ],
+    "imagini": [
+      "/produse/pinch-plate-1.webp",
+      "/produse/pinch-plate-2.webp"
+    ],
+    "stoc": "stoc-limitat",
+    "greutateKg": 2.1,
+    "rating": 4.3,
+    "nrRecenzii": 11
+  },
+  {
+    "slug": "coarda-agatare-hang-rope",
+    "nume": "Coardă de agățare Hang Rope 2,5 cm",
+    "sku": "HP-ANT-010",
+    "categorie": "antrenament",
+    "pret": 702,
+    "pretVechi": 801,
+    "descriereScurta": "Coardă de cânepă sintetică pentru atârnări și tracțiuni de priză.",
+    "descriere": "Două capete de coardă cu nod de oprire, prinse pe o bară de tracțiuni. Atârnările pe coardă construiesc rezistența de priză mai bine decât orice gripper, pentru că menținerea sub sarcină este exact ce se întâmplă într-o priză lungă.",
+    "specificatii": [
+      {
+        "eticheta": "Diametru",
+        "valoare": "2,5 cm"
+      },
+      {
+        "eticheta": "Lungime",
+        "valoare": "2 × 50 cm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Polipropilenă tip cânepă"
+      },
+      {
+        "eticheta": "Sarcină de lucru",
+        "valoare": "200 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/hang-rope-1.webp",
+      "/produse/hang-rope-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "reducere"
+    ],
+    "rating": 4.5,
+    "nrRecenzii": 16
+  },
+  {
+    "slug": "curea-oficiala-legare-piele",
+    "nume": "Curea oficială de legare, piele",
+    "sku": "HP-PRO-001",
+    "categorie": "protectie",
+    "pret": 198,
+    "descriereScurta": "Piele naturală de 3 mm, cusută dublu, la dimensiunile de competiție.",
+    "descriere": "Cureaua folosită la strap match, când arbitrul decide legarea mâinilor. Piele naturală tăbăcită vegetal, cu cusătură dublă pe toată lungimea și cataramă din alamă. Se înmoaie după câteva utilizări și rămâne așa.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "Piele naturală 3 mm"
+      },
+      {
+        "eticheta": "Lungime",
+        "valoare": "60 cm"
+      },
+      {
+        "eticheta": "Lățime",
+        "valoare": "4 cm"
+      },
+      {
+        "eticheta": "Cataramă",
+        "valoare": "Alamă"
+      },
+      {
+        "eticheta": "Cusătură",
+        "valoare": "Dublă, ață cerată"
+      }
+    ],
+    "imagini": [
+      "/produse/curea-legare-1.webp",
+      "/produse/curea-legare-2.webp",
+      "/produse/curea-legare-3.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "produs-moldovenesc"
+    ],
+    "rating": 4.8,
+    "nrRecenzii": 21
+  },
+  {
+    "slug": "curea-legare-strap-trainer",
+    "nume": "Curea de legare Strap Trainer",
+    "sku": "HP-PRO-009",
+    "categorie": "protectie",
+    "pret": 240,
+    "descriereScurta": "Varianta de antrenament a curelei de legare: chingă din poliester, lavabilă.",
+    "descriere": "Aceeași funcție ca la cureaua din piele, dar într-un material care se spală și nu cere o perioadă de înmuiere. Chinga din poliester țesut păstrează lățimea de competiție și nu se lungește sub sarcină. Potrivită pentru antrenamentul zilnic și pentru cluburile în care aceeași curea trece prin mâinile mai multor sportivi.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "Chingă din poliester țesut"
+      },
+      {
+        "eticheta": "Lungime",
+        "valoare": "60 cm"
+      },
+      {
+        "eticheta": "Lățime",
+        "valoare": "4 cm"
+      },
+      {
+        "eticheta": "Cataramă",
+        "valoare": "Oțel zincat"
+      },
+      {
+        "eticheta": "Rezistență chingă",
+        "valoare": "900 kg"
+      },
+      {
+        "eticheta": "Întreținere",
+        "valoare": "Spălare la 30°"
+      }
+    ],
+    "imagini": [
+      "/produse/strap-trainer-1.webp",
+      "/produse/strap-trainer-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "nou"
+    ],
+    "greutateKg": 0.15,
+    "rating": 4.4,
+    "nrRecenzii": 7
+  },
+  {
+    "slug": "bandaje-incheietura-60",
+    "nume": "Bandaje pentru încheietură 60 cm (pereche)",
+    "sku": "HP-PRO-002",
+    "categorie": "protectie",
+    "pret": 301,
+    "descriereScurta": "Bumbac elastic cu inserție de cauciuc, rigiditate medie.",
+    "descriere": "Lungimea de 60 cm este suficientă pentru antrenamentul zilnic și pentru sportivii cu încheietura subțire. Închidere cu velcro lat și buclă de police, care ține bandajul pe poziție pe toată durata seriei.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime",
+        "valoare": "60 cm"
+      },
+      {
+        "eticheta": "Lățime",
+        "valoare": "8 cm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Bumbac, poliester, cauciuc"
+      },
+      {
+        "eticheta": "Rigiditate",
+        "valoare": "Medie"
+      },
+      {
+        "eticheta": "Conținut",
+        "valoare": "Pereche"
+      }
+    ],
+    "imagini": [
+      "/produse/bandaje-60-1.webp",
+      "/produse/bandaje-60-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "bestseller"
+    ],
+    "rating": 4.7,
+    "nrRecenzii": 73
+  },
+  {
+    "slug": "bandaje-incheietura-90",
+    "nume": "Bandaje pentru încheietură 90 cm (pereche)",
+    "sku": "HP-PRO-003",
+    "categorie": "protectie",
+    "pret": 301,
+    "descriereScurta": "Varianta rigidă, pentru serii maximale și zi de competiție.",
+    "descriere": "Cu 30 cm în plus poți face încă două ture în jurul încheieturii și obții o susținere mult mai fermă. Recomandate la seturile grele de cupping și la meciurile în care încheietura este prima care cedează.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime",
+        "valoare": "90 cm"
+      },
+      {
+        "eticheta": "Lățime",
+        "valoare": "8 cm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Bumbac, poliester, cauciuc"
+      },
+      {
+        "eticheta": "Rigiditate",
+        "valoare": "Ridicată"
+      },
+      {
+        "eticheta": "Conținut",
+        "valoare": "Pereche"
+      }
+    ],
+    "imagini": [
+      "/produse/bandaje-90-1.webp",
+      "/produse/bandaje-90-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.8,
+    "nrRecenzii": 52
+  },
+  {
+    "slug": "cotiera-neopren-5mm",
+    "nume": "Cotieră neopren 5 mm",
+    "sku": "HP-PRO-004",
+    "categorie": "protectie",
+    "pret": 500,
+    "descriereScurta": "Compresie și menținerea temperaturii în articulația cotului.",
+    "descriere": "Neopren de 5 mm cu cusături plate, care nu freacă în pliul cotului. Ține articulația caldă între serii și oferă o compresie constantă, fără să limiteze extensia. Se poartă și la antrenament, și la încălzirea dinaintea meciului.",
+    "specificatii": [
+      {
+        "eticheta": "Grosime",
+        "valoare": "5 mm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Neopren SBR"
+      },
+      {
+        "eticheta": "Cusături",
+        "valoare": "Plate, flatlock"
+      },
+      {
+        "eticheta": "Mărimi",
+        "valoare": "S – XXL"
+      },
+      {
+        "eticheta": "Conținut",
+        "valoare": "1 bucată"
+      }
+    ],
+    "imagini": [
+      "/produse/cotiera-neopren-1.webp",
+      "/produse/cotiera-neopren-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "marimi": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.6,
+    "nrRecenzii": 39
+  },
+  {
+    "slug": "creta-magneziu-bloc-56g",
+    "nume": "Cretă magneziu bloc 56 g",
+    "sku": "HP-PRO-005",
+    "categorie": "protectie",
+    "pret": 278,
+    "descriereScurta": "Carbonat de magneziu pur, fără aditivi, presat în bloc.",
+    "descriere": "Blocul standard de sală. Se sfărâmă ușor, se distribuie uniform și nu lasă reziduu gras pe pini. Fără agenți de umplutură care fac creta să alunece exact când ai nevoie de ea.",
+    "specificatii": [
+      {
+        "eticheta": "Conținut",
+        "valoare": "56 g"
+      },
+      {
+        "eticheta": "Compoziție",
+        "valoare": "Carbonat de magneziu 100%"
+      },
+      {
+        "eticheta": "Formă",
+        "valoare": "Bloc presat"
+      }
+    ],
+    "imagini": [
+      "/produse/creta-bloc-1.webp",
+      "/produse/creta-bloc-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "etichete": [
+      "bestseller"
+    ],
+    "rating": 4.7,
+    "nrRecenzii": 96
+  },
+  {
+    "slug": "creta-lichida-250ml",
+    "nume": "Cretă lichidă 250 ml",
+    "sku": "HP-PRO-006",
+    "categorie": "protectie",
+    "pret": 240,
+    "descriereScurta": "Se usucă în 10 secunde, nu lasă praf în sală.",
+    "descriere": "Suspensie de carbonat de magneziu în alcool, pentru sălile în care creta praf este interzisă. Un strat subțire rezistă câteva serii și se spală cu apă și săpun. Recomandată și pentru transport la competiții.",
+    "specificatii": [
+      {
+        "eticheta": "Volum",
+        "valoare": "250 ml"
+      },
+      {
+        "eticheta": "Timp de uscare",
+        "valoare": "~10 secunde"
+      },
+      {
+        "eticheta": "Compoziție",
+        "valoare": "Carbonat de magneziu, alcool izopropilic, colofoniu"
+      }
+    ],
+    "imagini": [
+      "/produse/creta-lichida-1.webp",
+      "/produse/creta-lichida-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.5,
+    "nrRecenzii": 34
+  },
+  {
+    "slug": "banda-kinesiologica-5m",
+    "nume": "Bandă kinesiologică 5 m",
+    "sku": "HP-PRO-007",
+    "categorie": "protectie",
+    "pret": 187,
+    "descriereScurta": "Bumbac elastic cu adeziv acrilic, rezistent la transpirație.",
+    "descriere": "Rola de 5 m acoperă câteva săptămâni de aplicații pe antebraț, cot sau umăr. Adezivul ține și după duș, iar materialul se întinde longitudinal cu 40%, urmând mișcarea fără să restricționeze.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime",
+        "valoare": "5 m"
+      },
+      {
+        "eticheta": "Lățime",
+        "valoare": "5 cm"
+      },
+      {
+        "eticheta": "Elasticitate",
+        "valoare": "140% longitudinal"
+      },
+      {
+        "eticheta": "Adeziv",
+        "valoare": "Acrilic, hipoalergenic"
+      }
+    ],
+    "imagini": [
+      "/produse/banda-kinesio-1.webp",
+      "/produse/banda-kinesio-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.4,
+    "nrRecenzii": 28
+  },
+  {
+    "slug": "geanta-sport-table-bag-45l",
+    "nume": "Geantă de sport Table Bag 45 L",
+    "sku": "HP-PRO-008",
+    "categorie": "protectie",
+    "pret": 1026,
+    "descriereScurta": "Compartiment separat pentru cretă și buzunar pentru mânere.",
+    "descriere": "Gândită pentru deplasarea la competiții: un compartiment principal de 45 L, un buzunar căptușit pentru cretă și bandaje și o despărțitură rigidizată în care intră două mânere fără să lovească restul echipamentului.",
+    "specificatii": [
+      {
+        "eticheta": "Volum",
+        "valoare": "45 L"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Poliester 900D"
+      },
+      {
+        "eticheta": "Dimensiuni",
+        "valoare": "60 × 32 × 30 cm"
+      },
+      {
+        "eticheta": "Buzunare",
+        "valoare": "1 principal + 3 secundare"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "1,3 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/table-bag-1.webp",
+      "/produse/table-bag-2.webp",
+      "/produse/table-bag-3.webp"
+    ],
+    "stoc": "stoc-limitat",
+    "greutateKg": 1.3,
+    "rating": 4.6,
+    "nrRecenzii": 13
+  },
+  {
+    "slug": "tricou-chalk-and-steel",
+    "nume": "Tricou Chalk & Steel",
+    "sku": "HP-IMB-001",
+    "categorie": "imbracaminte",
+    "pret": 401,
+    "descriereScurta": "Bumbac 100%, 180 g/m², cu imprimeu ARMARCU și personalizare cu numele tău.",
+    "descriere": "Tricou de zi cu zi, cu imprimeul ARMARCU pe piept. Bumbac ring-spun care nu se deformează la umeri după câteva spălări. Croială dreaptă, nu slim — umerii lați intră fără probleme. Se execută la comandă: sub marcă adăugăm numele sportivului sau al clubului, pe baza datelor pe care ni le trimiți după plasarea comenzii.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "100% bumbac ring-spun"
+      },
+      {
+        "eticheta": "Gramaj",
+        "valoare": "180 g/m²"
+      },
+      {
+        "eticheta": "Imprimeu",
+        "valoare": "ARMARCU, serigrafie 2 culori"
+      },
+      {
+        "eticheta": "Personalizare",
+        "valoare": "Nume sportiv sau club"
+      },
+      {
+        "eticheta": "Croială",
+        "valoare": "Dreaptă (regular)"
+      },
+      {
+        "eticheta": "Termen de execuție",
+        "valoare": "7–10 zile lucrătoare"
+      },
+      {
+        "eticheta": "Întreținere",
+        "valoare": "Spălare 30°, pe dos"
+      }
+    ],
+    "imagini": [
+      "/produse/tricou-chalk-1.webp",
+      "/produse/tricou-chalk-2.webp",
+      "/produse/tricou-chalk-3.webp"
+    ],
+    "stoc": "la-comanda",
+    "marimi": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "personalizat": true,
+    "rating": 4.6,
+    "nrRecenzii": 47
+  },
+  {
+    "slug": "tricou-tehnic-top-roll",
+    "nume": "Tricou tehnic Top Roll",
+    "sku": "HP-IMB-002",
+    "categorie": "imbracaminte",
+    "pret": 401,
+    "descriereScurta": "Poliester cu evacuarea umidității, imprimeu ARMARCU, executat la comandă.",
+    "descriere": "Material tehnic cu structură fagure, care mută transpirația spre exterior și se usucă repede. Inserții din plasă sub braț. Potrivit pentru sesiunile lungi de tracțiuni, unde bumbacul devine o problemă. Marca ARMARCU se aplică prin transfer termic, iar sub ea adăugăm numele pe care îl indici la comandă.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "92% poliester, 8% elastan"
+      },
+      {
+        "eticheta": "Gramaj",
+        "valoare": "145 g/m²"
+      },
+      {
+        "eticheta": "Imprimeu",
+        "valoare": "ARMARCU, transfer termic"
+      },
+      {
+        "eticheta": "Personalizare",
+        "valoare": "Nume sportiv sau club"
+      },
+      {
+        "eticheta": "Tratament",
+        "valoare": "Antibacterian, evacuare umiditate"
+      },
+      {
+        "eticheta": "Croială",
+        "valoare": "Atletică"
+      },
+      {
+        "eticheta": "Termen de execuție",
+        "valoare": "7–10 zile lucrătoare"
+      }
+    ],
+    "imagini": [
+      "/produse/tricou-toproll-1.webp",
+      "/produse/tricou-toproll-2.webp",
+      "/produse/tricou-toproll-3.webp"
+    ],
+    "stoc": "la-comanda",
+    "marimi": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "etichete": [
+      "nou"
+    ],
+    "personalizat": true,
+    "rating": 4.5,
+    "nrRecenzii": 19
+  },
+  {
+    "slug": "hanorac-hook-and-press",
+    "nume": "Hanorac Hook & Press",
+    "sku": "HP-IMB-003",
+    "categorie": "imbracaminte",
+    "pret": 702,
+    "descriereScurta": "Bumbac periat 320 g/m², glugă dublă, cu ARMARCU imprimat pe piept.",
+    "descriere": "Hanoracul de încălzire și de drum spre sală. Interior periat, manșete și poale cu elastan, ca să nu se lărgească. Marca ARMARCU apare pe piept, iar pe spate imprimăm numele și, dacă vrei, sigla clubului. Se execută la comandă, după datele trimise de tine.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "80% bumbac, 20% poliester"
+      },
+      {
+        "eticheta": "Gramaj",
+        "valoare": "320 g/m²"
+      },
+      {
+        "eticheta": "Detalii",
+        "valoare": "Glugă dublă, buzunar kangaroo"
+      },
+      {
+        "eticheta": "Imprimeu",
+        "valoare": "ARMARCU pe piept, serigrafie"
+      },
+      {
+        "eticheta": "Personalizare",
+        "valoare": "Nume și siglă de club, pe spate"
+      },
+      {
+        "eticheta": "Termen de execuție",
+        "valoare": "7–10 zile lucrătoare"
+      }
+    ],
+    "imagini": [
+      "/produse/hanorac-hp-1.webp",
+      "/produse/hanorac-hp-2.webp",
+      "/produse/hanorac-hp-3.webp"
+    ],
+    "stoc": "la-comanda",
+    "marimi": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "etichete": [
+      "bestseller"
+    ],
+    "personalizat": true,
+    "rating": 4.8,
+    "nrRecenzii": 36
+  },
+  {
+    "slug": "sapca-brodata-hp",
+    "nume": "Șapcă brodată H&P",
+    "sku": "HP-IMB-004",
+    "categorie": "imbracaminte",
+    "pret": 340,
+    "descriereScurta": "Bumbac twill, 6 panouri, cu ARMARCU brodat pe panoul frontal.",
+    "descriere": "Șapcă simplă, cu marca ARMARCU brodată pe panoul frontal. Cozoroc pre-curbat, bandă interioară absorbantă, reglaj metalic. Pe panoul din spate putem broda numele clubului, dacă îl indici la comandă. Fără branding agresiv.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "100% bumbac twill"
+      },
+      {
+        "eticheta": "Panouri",
+        "valoare": "6, cu ocheți brodați"
+      },
+      {
+        "eticheta": "Broderie",
+        "valoare": "ARMARCU pe panoul frontal"
+      },
+      {
+        "eticheta": "Personalizare",
+        "valoare": "Nume de club, pe panoul din spate"
+      },
+      {
+        "eticheta": "Reglaj",
+        "valoare": "Cataramă metalică"
+      },
+      {
+        "eticheta": "Mărime",
+        "valoare": "Universală"
+      },
+      {
+        "eticheta": "Termen de execuție",
+        "valoare": "7–10 zile lucrătoare"
+      }
+    ],
+    "imagini": [
+      "/produse/sapca-hp-1.webp",
+      "/produse/sapca-hp-2.webp"
+    ],
+    "stoc": "la-comanda",
+    "personalizat": true,
+    "rating": 4.4,
+    "nrRecenzii": 24
+  },
+  {
+    "slug": "short-antrenament-forge",
+    "nume": "Șort de antrenament Forge",
+    "sku": "HP-IMB-005",
+    "categorie": "imbracaminte",
+    "pret": 568,
+    "descriereScurta": "Talie elastică cu șnur, buzunare cu fermoar, ARMARCU imprimat pe picior.",
+    "descriere": "Șort de sală din material tehnic ușor, cu buzunare care se închid. Croială largă la coapsă, ca să nu limiteze poziția de sprijin. Se usucă rapid și nu reține mirosul. Marca ARMARCU se imprimă pe piciorul stâng, iar numele sportivului se poate adăuga alături, la cerere.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "100% poliester ripstop"
+      },
+      {
+        "eticheta": "Lungime",
+        "valoare": "23 cm interior"
+      },
+      {
+        "eticheta": "Imprimeu",
+        "valoare": "ARMARCU, transfer termic"
+      },
+      {
+        "eticheta": "Personalizare",
+        "valoare": "Nume sportiv, opțional"
+      },
+      {
+        "eticheta": "Buzunare",
+        "valoare": "2 laterale cu fermoar"
+      },
+      {
+        "eticheta": "Talie",
+        "valoare": "Elastică, cu șnur"
+      },
+      {
+        "eticheta": "Termen de execuție",
+        "valoare": "7–10 zile lucrătoare"
+      }
+    ],
+    "imagini": [
+      "/produse/short-forge-1.webp",
+      "/produse/short-forge-2.webp"
+    ],
+    "stoc": "la-comanda",
+    "marimi": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "personalizat": true,
+    "rating": 4.3,
+    "nrRecenzii": 12
+  },
+  {
+    "slug": "maiou-personalizat",
+    "nume": "Maiou personalizat",
+    "sku": "HP-IMB-006",
+    "categorie": "imbracaminte",
+    "pret": 568,
+    "descriereScurta": "Maiou de competiție cu ARMARCU, plus numele și numărul tău, la comandă.",
+    "descriere": "Croială de competiție, cu răscroiala largă la braț, ca priza să nu fie limitată de material. Marca ARMARCU se aplică pe piept, iar dedesubt imprimăm numele sportivului, numărul și sigla clubului prin transfer termic, rezistent la spălare și la cretă. Textul și fișierul cu sigla se trimit pe e-mail după plasarea comenzii sau se scriu în câmpul de observații de la finalizare.",
+    "specificatii": [
+      {
+        "eticheta": "Material",
+        "valoare": "92% poliester, 8% elastan"
+      },
+      {
+        "eticheta": "Gramaj",
+        "valoare": "160 g/m²"
+      },
+      {
+        "eticheta": "Imprimeu",
+        "valoare": "ARMARCU pe piept"
+      },
+      {
+        "eticheta": "Personalizare",
+        "valoare": "Nume, număr și siglă de club"
+      },
+      {
+        "eticheta": "Imprimare",
+        "valoare": "Transfer termic, până la 3 culori"
+      },
+      {
+        "eticheta": "Termen de execuție",
+        "valoare": "7–10 zile lucrătoare"
+      },
+      {
+        "eticheta": "Comandă minimă",
+        "valoare": "1 bucată"
+      },
+      {
+        "eticheta": "Întreținere",
+        "valoare": "Spălare 30°, pe dos, fără uscător"
+      }
+    ],
+    "imagini": [
+      "/produse/maiou-personalizat-1.webp",
+      "/produse/maiou-personalizat-2.webp",
+      "/produse/maiou-personalizat-3.webp"
+    ],
+    "stoc": "la-comanda",
+    "marimi": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "etichete": [
+      "nou",
+      "produs-moldovenesc"
+    ],
+    "greutateKg": 0.2,
+    "personalizat": true,
+    "rating": 4.7,
+    "nrRecenzii": 6
+  },
+  {
+    "slug": "rola-masaj-antebrat",
+    "nume": "Rolă de masaj pentru antebraț",
+    "sku": "HP-REC-001",
+    "categorie": "recuperare",
+    "pret": 454,
+    "descriereScurta": "Rolă scurtă, cu mânere, pentru automasajul flexorilor și extensorilor.",
+    "descriere": "Diametru mic și mânere laterale, ca să poți controla presiunea pe antebraț fără să folosești greutatea corpului. Suprafață cu striații care prind fascia fără să irite pielea.",
+    "specificatii": [
+      {
+        "eticheta": "Lungime",
+        "valoare": "33 cm"
+      },
+      {
+        "eticheta": "Diametru",
+        "valoare": "6 cm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "EVA + miez PP"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "0,4 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/rola-antebrat-1.webp",
+      "/produse/rola-antebrat-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.5,
+    "nrRecenzii": 30
+  },
+  {
+    "slug": "bila-masaj-lacrosse",
+    "nume": "Bilă de masaj lacrosse",
+    "sku": "HP-REC-002",
+    "categorie": "recuperare",
+    "pret": 172,
+    "descriereScurta": "Cauciuc dens de 6,3 cm, pentru puncte trigger în antebraț și umăr.",
+    "descriere": "Cea mai simplă unealtă de refacere și una dintre cele mai eficiente. Densitate mare, fără deformare în timp. O folosești pe antebraț, pe pectoral și pe rotatori, pe podea sau pe perete.",
+    "specificatii": [
+      {
+        "eticheta": "Diametru",
+        "valoare": "6,3 cm"
+      },
+      {
+        "eticheta": "Material",
+        "valoare": "Cauciuc dens"
+      },
+      {
+        "eticheta": "Duritate",
+        "valoare": "Ridicată"
+      },
+      {
+        "eticheta": "Greutate",
+        "valoare": "0,14 kg"
+      }
+    ],
+    "imagini": [
+      "/produse/bila-lacrosse-1.webp",
+      "/produse/bila-lacrosse-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.6,
+    "nrRecenzii": 41
+  },
+  {
+    "slug": "gel-racoritor-articulatii-100ml",
+    "nume": "Gel răcoritor pentru articulații 100 ml",
+    "sku": "HP-REC-003",
+    "categorie": "recuperare",
+    "pret": 263,
+    "descriereScurta": "Mentol și arnică, pentru senzația de răcorire după antrenament.",
+    "descriere": "Gel cu absorbție rapidă, aplicat pe cot și antebraț după sesiunile grele. Nu lasă film gras și nu pătează hainele. Produs cosmetic, nu medicament — nu înlocuiește consultul medical în caz de durere persistentă.",
+    "specificatii": [
+      {
+        "eticheta": "Volum",
+        "valoare": "100 ml"
+      },
+      {
+        "eticheta": "Ingrediente-cheie",
+        "valoare": "Mentol, extract de arnică, camfor"
+      },
+      {
+        "eticheta": "Tip",
+        "valoare": "Produs cosmetic"
+      },
+      {
+        "eticheta": "Mod de aplicare",
+        "valoare": "Strat subțire, de 2–3 ori pe zi"
+      }
+    ],
+    "imagini": [
+      "/produse/gel-racoritor-1.webp",
+      "/produse/gel-racoritor-2.webp"
+    ],
+    "stoc": "in-stoc",
+    "rating": 4.2,
+    "nrRecenzii": 17
+  }
+]

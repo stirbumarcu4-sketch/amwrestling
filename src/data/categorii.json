@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "mese",
+    "nume": "Mese & suprafețe",
+    "descriere": "Mese de competiție și antrenament la cotele oficiale, perne de cot, pini de mână și accesorii de suprafață.",
+    "imagine": "/categorii/mese-foto.webp"
+  },
+  {
+    "slug": "manere",
+    "nume": "Mânere & atașamente",
+    "descriere": "Mânere pentru pronație, cupping, ciocan și rotație, bare Devon și adaptoare pentru sisteme de tracțiune.",
+    "imagine": "/categorii/manere-foto.webp"
+  },
+  {
+    "slug": "antrenament",
+    "nume": "Tracțiune & forță",
+    "descriere": "Scripeți, cabluri, grippere, wrist roller și benzi de rezistență pentru antrenamentul specific de braț.",
+    "imagine": "/categorii/antrenament-foto.webp"
+  },
+  {
+    "slug": "protectie",
+    "nume": "Protecție & competiție",
+    "descriere": "Bandaje de încheietură, cotiere, curele de legare, cretă și tot ce îți trebuie în ziua concursului.",
+    "imagine": "/categorii/protectie-foto.webp"
+  },
+  {
+    "slug": "imbracaminte",
+    "nume": "Îmbrăcăminte",
+    "descriere": "Tricouri, hanorace și accesorii textile pentru sală și pentru deplasările la competiții.",
+    "imagine": "/categorii/imbracaminte-foto.webp"
+  },
+  {
+    "slug": "recuperare",
+    "nume": "Recuperare",
+    "descriere": "Role, bile de masaj și produse topice pentru refacerea antebrațului, a cotului și a umărului.",
+    "imagine": "/categorii/recuperare-foto.webp"
+  }
+]
