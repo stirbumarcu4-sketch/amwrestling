@@ -100,12 +100,28 @@ export async function POST(request: Request) {
     primitaLa: acum.toISOString(),
   };
 
-  const comenzi = await citesteComenzi();
-  await scrieComenzi([comanda, ...comenzi]);
-
-  // După salvare, ca o problemă la Telegram să nu piardă comanda. Funcția nu
-  // aruncă niciodată; dacă notificarea eșuează, comanda e deja pe disc.
+  // DECIZIE: anunțul pleacă ÎNAINTEA salvării. Pe o găzduire fără disc
+  // scriptibil (Vercel și restul platformelor serverless) scrierea de mai jos
+  // eșuează, iar dacă anunțul ar veni după, comanda s-ar pierde fără urmă.
+  // Invers, notificarea ajunge oricum pe telefon.
   await anuntaComandaPeTelegram(comanda);
 
-  return NextResponse.json({ ok: true, numar: comanda.numar }, { status: 201 });
+  // Scrierea e un plus, nu o condiție: o comandă validă nu se respinge fiindcă
+  // disc nu e scriptibil. Clientul primește confirmare în ambele cazuri.
+  let salvata = true;
+  try {
+    const comenzi = await citesteComenzi();
+    await scrieComenzi([comanda, ...comenzi]);
+  } catch (err) {
+    salvata = false;
+    console.error(
+      `Comanda ${comanda.numar} nu a putut fi scrisă pe disc (găzduire fără disc scriptibil?):`,
+      err,
+    );
+  }
+
+  return NextResponse.json(
+    { ok: true, numar: comanda.numar, salvata },
+    { status: 201 },
+  );
 }

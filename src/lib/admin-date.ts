@@ -56,6 +56,25 @@ export const citesteSetari = () =>
   citeste<SetariSite>(CALE_SETARI, {} as SetariSite);
 export const scrieSetari = (s: SetariSite) => scrie(CALE_SETARI, s);
 
+/**
+ * Spune dacă datele chiar pot fi salvate pe discul serverului.
+ *
+ * Pe găzduirile serverless (Vercel, Netlify și altele) codul rulează dintr-un
+ * pachet doar-citire, deci panoul poate arăta datele, dar nu le poate schimba.
+ * Verificăm scriind efectiv un fișier, nu ghicind după numele platformei.
+ */
+export async function sePoateScrie(): Promise<boolean> {
+  const martor = join(DIRECTOR_DATE, ".scriere-test");
+  try {
+    await writeFile(martor, "x", "utf8");
+    const { unlink } = await import("node:fs/promises");
+    await unlink(martor).catch(() => {});
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 /** `Masă de competiție Titan Pro` → `masa-de-competitie-titan-pro`. */
 export function slugifica(text: string): string {
   return text

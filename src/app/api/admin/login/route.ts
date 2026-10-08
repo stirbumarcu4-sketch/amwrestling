@@ -30,7 +30,17 @@ export async function POST(request: Request) {
     );
   }
 
-  const { valoare, maxAge } = await creeazaSesiune();
+  const sesiune = await creeazaSesiune();
+  if (!sesiune) {
+    // Parola e corectă, dar serverului îi lipsește ADMIN_SECRET, deci nu poate
+    // semna cookie-ul. Se întâmplă când variabilele nu sunt puse pe găzduire.
+    return NextResponse.json(
+      { eroare: "Serverul nu are ADMIN_SECRET configurat." },
+      { status: 500 },
+    );
+  }
+
+  const { valoare, maxAge } = sesiune;
   const raspuns = NextResponse.json({ ok: true });
   raspuns.cookies.set(COOKIE_SESIUNE, valoare, {
     httpOnly: true,
